@@ -1,3 +1,6 @@
 [submodule "321"]
 	path = 321
 	url = https://github.com/STARFF1/321
+[submodule "test-github"]
+	path = test-github
+	url = https://github.com/STARFF1/123
